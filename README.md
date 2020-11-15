@@ -13,4 +13,4 @@
 3. [PHP Fractal](https://fractal.thephpleague.com/) 
 
 ## Problem
-1. [What is n+1 problem](https://stackoverflow.com/questions/97197/what-is-the-n1-selects-problem-in-orm-object-relational-mapping)
+1. [What is n+1 query problem](https://stackoverflow.com/questions/97197/what-is-the-n1-selects-problem-in-orm-object-relational-mapping)
