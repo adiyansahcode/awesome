@@ -18,4 +18,5 @@
 4. [reqres respond API](https://reqres.in/) 
 
 ## Problem
-1. [What is n+1 query problem](https://stackoverflow.com/questions/97197/what-is-the-n1-selects-problem-in-orm-object-relational-mapping)
+1. [n+1 query problem](https://stackoverflow.com/questions/97197/what-is-the-n1-selects-problem-in-orm-object-relational-mapping)
+2. [pagination offset limit problem](https://ivopereira.net/efficient-pagination-dont-use-offset-limit)
