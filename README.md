@@ -16,6 +16,7 @@
 3. [PHP Fractal](https://fractal.thephpleague.com/) 
 4. [reqres respond API](https://reqres.in/) 
 
-## Problem
+## Problem & How To Solve
 1. [n+1 query problem](https://stackoverflow.com/questions/97197/what-is-the-n1-selects-problem-in-orm-object-relational-mapping)
 2. [pagination offset limit problem](https://ivopereira.net/efficient-pagination-dont-use-offset-limit)
+3. [pagination cursor with UUID](http://morningcoffee.io/stable-pagination.html)
