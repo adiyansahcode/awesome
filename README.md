@@ -1,8 +1,5 @@
 # Awesome List
 
-## PHP
-1. [trait php](https://khoerodin.id/object-oriented-php/trait-dalam-oop-php/)
-
 ## Laravel PHP
 1. [Laravel Chunk](https://laraveldaily.com/process-big-db-table-with-chunk-method/)
 2. [Laravel Chunk VS Cursor](https://stackoverflow.com/questions/45464676/what-is-the-difference-between-laravel-cursor-and-laravel-chunk-method)
