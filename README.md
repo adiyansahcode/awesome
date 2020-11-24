@@ -7,6 +7,7 @@
 1. [Laravel Chunk](https://laraveldaily.com/process-big-db-table-with-chunk-method/)
 2. [Laravel Chunk VS Cursor](https://stackoverflow.com/questions/45464676/what-is-the-difference-between-laravel-cursor-and-laravel-chunk-method)
 3. [Laravel traits](https://kshitij206.medium.com/traits-in-laravel-5db8beffbcc3) 
+4. [Laravel eloquent variable](https://id-laravel.com/post/mengenal-eloquent-variable-spesial/) 
 
 ## Lumen PHP
 1. [pengenalan dan cara install lumen](https://kodingin.com/pengenalan-dan-cara-install-lumen/) 
