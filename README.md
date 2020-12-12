@@ -17,10 +17,15 @@
 ## REST-API
 1. [restfulapi](https://restfulapi.net/)
 2. [jsonapi](https://jsonapi.org/)
-* [JSONAPI Rule Sorting](https://jsonapi.org/format/#fetching-sorting) 
+* [JSONAPI Rule Sorting](https://jsonapi.org/format/#fetching-sorting)
+* [JSONAPI Rule Includes Related Resources](https://jsonapi.org/format/#fetching-includes) 
+* [JSONAPI Rule Filtering](https://jsonapi.org/format/#fetching-filtering) 
+* [JSONAPI Rule Pagination](https://jsonapi.org/format/#fetching-pagination) 
 * [JSONAPI Rule Errors](https://jsonapi.org/format/#errors) 
 3. [PHP Fractal](https://fractal.thephpleague.com/) 
-4. [reqres respond API](https://reqres.in/) 
+4. [ReqRes respond API](https://reqres.in/)
+5. [JSON APIfiltering-strategy](https://discuss.jsonapi.org/t/share-propose-a-filtering-strategy/257)
+6. [REST API Design: Filtering, Sorting, and Pagination](https://www.moesif.com/blog/technical/api-design/REST-API-Design-Filtering-Sorting-and-Pagination/)
 
 ## Problem & How To Solve
 1. [n+1 query problem](https://stackoverflow.com/questions/97197/what-is-the-n1-selects-problem-in-orm-object-relational-mapping)
