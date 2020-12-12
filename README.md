@@ -24,7 +24,7 @@
 * [JSONAPI Rule Errors](https://jsonapi.org/format/#errors) 
 3. [PHP Fractal](https://fractal.thephpleague.com/) 
 4. [ReqRes respond API](https://reqres.in/)
-5. [JSON APIfiltering-strategy](https://discuss.jsonapi.org/t/share-propose-a-filtering-strategy/257)
+5. [JSON API filtering-strategy](https://discuss.jsonapi.org/t/share-propose-a-filtering-strategy/257)
 6. [REST API Design: Filtering, Sorting, and Pagination](https://www.moesif.com/blog/technical/api-design/REST-API-Design-Filtering-Sorting-and-Pagination/)
 
 ## Problem & How To Solve
