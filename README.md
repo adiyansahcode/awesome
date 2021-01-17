@@ -40,4 +40,5 @@
 4. [Observer Pattern](https://en.wikipedia.org/wiki/Observer_pattern)
 5. [SOLID Pattern](https://en.wikipedia.org/wiki/SOLID) 
 6. [DDD Pattern](https://en.wikipedia.org/wiki/Domain-driven_design) 
-    * [Repository Pattern](https://medium.com/@Dewey92/repository-pattern-what-e47ddee3364d)
+7. [Decorator Pattern](https://en.wikipedia.org/wiki/Decorator_pattern) 
+7. [Repository Pattern](https://medium.com/@Dewey92/repository-pattern-what-e47ddee3364d)
