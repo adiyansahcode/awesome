@@ -3,6 +3,7 @@
 ## PHP
 1. [PHP traits](https://khoerodin.id/object-oriented-php/trait-dalam-oop-php/) 
 2. [PHP interface](https://medium.com/@Dewey92/oop-interface-what-ca16de0359af)
+3. [PHP clean-code](https://github.com/jupeter/clean-code-php)
 
 ## Laravel PHP
 1. [Laravel Chunk](https://laraveldaily.com/process-big-db-table-with-chunk-method/)
